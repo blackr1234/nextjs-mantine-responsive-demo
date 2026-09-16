@@ -1,0 +1,15 @@
+[
+	{ "label": "Overview", "path": "/" },
+	{
+		"label": "Agents",
+		"path": "/agents"
+	},
+	{ "label": "Models", "path": "/models" },
+	{
+		"label": "Settings",
+		"children": [
+			{ "label": "User settings", "path": "/settings/user" },
+			{ "label": "System settings", "path": "/settings/system" }
+		]
+	}
+]
